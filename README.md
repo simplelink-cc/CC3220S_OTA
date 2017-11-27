@@ -1,0 +1,2 @@
+# CC3220S_OTA
+Project for CC3220S OTA
